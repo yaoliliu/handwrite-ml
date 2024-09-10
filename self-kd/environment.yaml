@@ -1,0 +1,7 @@
+name: self-kd
+channel:
+  - conda-forge
+dependencies:
+  - python==3.10
+  - pytorch
+  - torchvision
